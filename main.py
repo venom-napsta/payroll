@@ -1,7 +1,7 @@
 from typing import Optional
-from fastapi.responses import HTMLResponse
 
 from fastapi import FastAPI
+from fastapi.responses import HTMLResponse
 
 app = FastAPI()
 
